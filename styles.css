@@ -5,7 +5,7 @@ body {
 .header {
   color: #ff5000;
   text-align: center;
-  -webkit-text-stroke: 1px #a74503;
+  -webkit-text-stroke: 1px #000000;
   font-size: 30px;
   filter: drop-shadow(4px 5px 4px #d34300);
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
