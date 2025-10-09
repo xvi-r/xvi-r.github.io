@@ -1,13 +1,14 @@
 body {
-  background-color: #00afff;
+  background: linear-gradient(135deg, #00afff, #002f64);
+  min-height: 100vh;
+  margin: 0;
 }
-
 .header {
   color: #ff5000;
   text-align: center;
-  -webkit-text-stroke: 1px #000000;
   font-size: 30px;
-  filter: drop-shadow(4px 5px 4px #d34300);
+  text-shadow: 3px 0px 5px #2c0e00;
+  animation: glow 2s ease-in-out infinite alternate;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
