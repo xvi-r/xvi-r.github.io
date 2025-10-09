@@ -1,0 +1,20 @@
+body {
+  background-color: #00afff;
+}
+
+.header {
+  color: #ff5000;
+  text-align: center;
+  -webkit-text-stroke: 1px #a74503;
+  font-size: 30px;
+  filter: drop-shadow(4px 5px 4px #d34300);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-top: 40px;
+  margin-right: auto;
+  filter: drop-shadow(1);
+}
